@@ -1,9 +1,9 @@
-# Airmouse 🖱️
+# Virtual Mouse 🖱️
 
 ![Python](https://img.shields.io/badge/Python%20-Python%203.8.1-yellowgreen?style=for-the-badge&logo=python)
 
-Airmouse concept is to provide new user experinece with the help of opencv2.
-Using this Airmouse you can control your mouse with the help of hand recognition.
+Virtual Mouse concept is to provide new user experinece with the help of opencv2.
+Using this Virtual Mouse you can control your mouse with the help of hand recognition.
 User can interact with computer with the help of hands without using physical mouse.
 <br>
 
@@ -37,7 +37,7 @@ pip install autopy
 ## Execution ⚙️
 
 After installing all dependencies,<br>
-Run or Double Click **_main.py_** to activate Airmouse.
+Run or Double Click **_main.py_** to activate Virtual Mouse.
 
 - Run Command :
 
